@@ -1,9 +1,8 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-using namespace std;
-
 #include <unistd.h>
+using namespace std;
 
 int main()
 {
